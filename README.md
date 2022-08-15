@@ -2,5 +2,5 @@
 Group Members:
 Meeth Yogesh Handa (EID: mh58668)
 Nicolay Huarancay (EID: nh23865)
-Jason Nania 
+Jason Nania (EID: jn28878)
 Nicole Pham-Nguyen (EID: np9967)
